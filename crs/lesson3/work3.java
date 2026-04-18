@@ -10,5 +10,5 @@ public class work3 {
             map.put(element, map.getOrDefault(element,0)+ 1);
         }
         System.out.println(map);
-    }
+        }
     }
