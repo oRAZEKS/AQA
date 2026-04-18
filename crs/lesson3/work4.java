@@ -51,4 +51,3 @@ public class work4 {
             return result;
         }
     }
-
