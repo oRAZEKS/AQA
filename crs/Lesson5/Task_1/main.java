@@ -17,4 +17,5 @@ public class main {
         System.out.println("Одеваем мужчин:");
         atelier.dressMan(clothes);
     }
+
 }
