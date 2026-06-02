@@ -3,7 +3,7 @@ package NewLesson1;
 public class EvenOdd {
     static void main(String[] args) {
         int a;
-        a = 4;
+        a = 7;
 
         if (a % 2 ==0){
 

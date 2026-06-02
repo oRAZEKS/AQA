@@ -14,6 +14,6 @@ public class PartOfTheDay {
         }
     }
     public static void main(String[] args) {
-        greeting(7, 30, 5, "Tom");
+        greeting(8, 30, 5, "Tom");
     }
 }
